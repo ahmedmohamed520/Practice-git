@@ -1,2 +1,2 @@
-#Reamme file for git toturial
+# Reamme file for git toturial
 this project is built step by step by me
